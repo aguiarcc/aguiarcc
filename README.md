@@ -1,7 +1,7 @@
 [![MasterHead](https://joaoaguiar.tech/bannerspace.png)](https://github.com/aguiarcc)
 
 # Sinta-se bem
-Sou João Aguiar, um autodidata em tecnologias web, minha jornada teve inicio em 1997 (Ano Posterior da Internet Comercial no Brasil) e a curiosidade foi o fator principal para explorar a [WWW](https://pt.wikipedia.org/wiki/World_Wide_Web). Com o conhecimento que adquiri achei superficial e decidi me aprofundar para entender como as coisas funcionam também no âmbito computacional, curto bastante o que faço e neste espaço pretendo disponibilizar minhas humildes invenções e contribuições.
+Sou João Aguiar, um autodidata em tecnologias web, minha jornada teve inicio em 1997 (Dois anos seguintes da Internet Comercial no Brasil) e a curiosidade foi o fator principal para explorar a [WWW](https://pt.wikipedia.org/wiki/World_Wide_Web). Com o conhecimento que adquiri achei superficial e decidi me aprofundar para entender como as coisas funcionam também no âmbito computacional, curto bastante o que faço e neste espaço pretendo disponibilizar minhas humildes invenções e contribuições.
 
 ## Expertise
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
