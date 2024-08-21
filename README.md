@@ -1,5 +1,3 @@
-[![MasterHead](https://joaoaguiar.tech/spacebg_01.png)](https://github.com/aguiarcc)
-
 ## Expertise
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
