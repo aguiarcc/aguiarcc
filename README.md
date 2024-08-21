@@ -1,11 +1,5 @@
 [![MasterHead](https://joaoaguiar.tech/spacebg_01.png)](https://github.com/aguiarcc)
 
-# Sinta-se bem
-Em 1997, no Rio de Janeiro, tive meu primeiro contato com um PC durante os primeiros anos da internet comercial no Brasil. Provedores como AOL e IG conectavam os usuários à WWW, uma novidade que despertava curiosidades sobre o tipo de conteúdo e interação disponível.
-Naquela época, utilizávamos o buscador Cadê para pesquisar e indexar home pages. As tecnologias para criar websites eram primitivas, e muitas soluções improvisadas eram necessárias. As agências de publicidade, desenvolvimento e hospedagem começaram a mostrar o impacto da web e da economia global, marcando o início da Web 1.0, onde navegadores permitiam o acesso a páginas e documentos ao redor do mundo.
-Meu interesse pela internet cresceu, apesar das dificuldades devido à falta de documentação em português. Comecei a estudar e adquirir livros e revistas para aprimorar meus conhecimentos, o que levou ao lançamento de um site institucional para uma indústria de duchas. Na época, o layout era feito com <th>, <tr>, e <td>, pois a <div> e o CSS ainda não eram amplamente utilizados.
-Com o tempo, CSS e HTML evoluíram para suas versões modernas, e estamos agora na era da Web 3.0, marcada pelo impacto das redes sociais e da inteligência artificial. A Web Semântica está organizando e estruturando dados, tornando nossas atividades mais ágeis e eficientes, tanto pessoal quanto profissionalmente.
-
 ## Expertise
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
